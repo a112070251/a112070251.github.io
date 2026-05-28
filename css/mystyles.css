@@ -1,6 +1,7 @@
 .huacenter{
     text-align: center;
     color: #dc3545;
+    font-family: 'Noto Serif TC' , sans-serif;
 
 }
 .huaback{
@@ -15,6 +16,7 @@
 
 .centercenter{
     text-align: center;
+    font-family: 'Noto Sans TC' , sans-serif;
 }
 
 a.hualink{
